@@ -1,0 +1,3 @@
+rootProject.name = 'HDsomeProject'
+
+include ':app'
